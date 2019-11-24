@@ -1,0 +1,67 @@
+{
+  "projects": [
+    {
+      "id": 463912409288621,
+      "name": "Projekti A",
+      "started": "Wed Nov 06 2019 22:50:54 GMT+0200 (Itä-Euroopan normaaliaika)",
+      "owner": "mock-käyttäjä",
+      "active": true
+    },
+    {
+      "id": 6541957769329891,
+      "name": "Projekti B",
+      "started": "Wed Nov 06 2019 22:51:05 GMT+0200 (Itä-Euroopan normaaliaika)",
+      "owner": "mock-käyttäjä",
+      "active": true
+    },
+    {
+      "id": 7302764189377931,
+      "name": "Projecti C",
+      "started": "Wed Nov 13 2019 16:30:09 GMT+0200 (Itä-Euroopan normaaliaika)",
+      "owner": "mock-käyttäjä",
+      "active": true
+    }
+  ],
+  "jobs": [
+    {
+      "id": 461290807319177,
+      "name": "jotain tehty",
+      "start": "2019-11-06T19:15:00.584Z",
+      "end": "2019-11-06T20:52:44.584Z",
+      "projectId": 6541957769329891,
+      "user": "mock-käyttäjä"
+    },
+    {
+      "id": 3032432738780903,
+      "name": "jotain muutakin tehty",
+      "start": "2019-11-05T19:00:00.000Z",
+      "end": "2019-11-06T20:53:00.497Z",
+      "projectId": 6541957769329891,
+      "user": "mock-käyttäjä"
+    },
+    {
+      "id": 6194001545232645,
+      "name": "koekirjaus",
+      "start": "2019-11-06T16:15:00.215Z",
+      "end": "2019-11-06T20:15:00.215Z",
+      "projectId": 463912409288621,
+      "user": "mock-käyttäjä"
+    },
+    {
+      "id": 8757575746886027,
+      "name": "tyylitesti",
+      "start": "2019-11-13T13:00:00.160Z",
+      "end": "2019-11-13T15:00:00.160Z",
+      "projectId": 463912409288621,
+      "doer": "mock-käyttäjä"
+    },
+    {
+      "id": 8666643545349665,
+      "name": "toimiiko?",
+      "start": "2019-11-13T15:03:25.825Z",
+      "end": "2019-11-13T15:03:25.825Z",
+      "projectId": 463912409288621,
+      "doer": "mock-käyttäjä"
+    }
+  ]
+}

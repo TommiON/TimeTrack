@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Tärkeä projekti"
+    },
+    {
+      "id": 2,
+      "name": "Toinen tärkeä projekti"
+    },
+    {
+      "name": "xxx",
+      "started": "Wed Nov 06 2019 13:42:37 GMT+0200 (Itä-Euroopan normaaliaika)",
+      "id": 4
+    }
+  ],
+  "jobs": [
+    {
+      "id": 1,
+      "name": "tuntikirjaus",
+      "projectId": 1
+    },
+    {
+      "id": 2,
+      "name": "toinen tuntikirjaus",
+      "projectId": 1
+    },
+    {
+      "id": 3,
+      "name": "kolmas tuntikirjaus",
+      "projectId": 2
+    },
+    {
+      "name": "koekirjaus",
+      "start": "11",
+      "end": "22",
+      "id": 4
+    }
+  ]
+}
